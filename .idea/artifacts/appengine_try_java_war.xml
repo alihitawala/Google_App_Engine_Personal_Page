@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="appengine-try-java:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="appengine-try-java-1.0.war">
+      <element id="artifact" artifact-name="appengine-try-java:war exploded" />
+    </root>
+  </artifact>
+</component>
